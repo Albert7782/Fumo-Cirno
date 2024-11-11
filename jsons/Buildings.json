@@ -1,25 +1,52 @@
 [
 	{
-		"name": "Holodeck",
+		"name": "The Circus of Heaven ",
 		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
+		"uniqueTo": "Ice Kingdom of Cirno ",
+		"cost": 120,
+		"happiness": 19,
+		"culture": 20,
+		"science": 2,
+		"maintenance": 60,
 		"isNationalWonder": true,
 		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"requiredTech": ""
 	},
 	{
-		"name": "Breeders",
+		"name": "Waterway",
 		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
+		"uniqueTo": "Ice Kingdom of Cirno",
+		"cost": 40,
 		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
+		"happiness": 29,
+		"uniques": ["Did you know? When a new citizen is born, 40% of the food gets carried over! That's pretty interesting!"],
 		"requiredTech": "Engineering"
-	}
+	}, 
+	{
+		"name": "Strongest Library"
+		"replaces": "Library"
+		"uniqueTo": "Ice Kingdom of Cirno",
+		"cost": 100,
+		"science": 20,
+		"culture": 15,
+		"requiredTech": "Writing" 
+	},
+	{
+                "name": "Frozen Bazaar"
+		"replaces": "Market"
+		"uniqueTo": "Ice Kingdom of Cirno",
+		"cost": 120, 
+		"gold": 20,
+		"gold": 50,
+		"merchantslot": 10,
+		"requiredTech": "Currency"
+        },
+	{ 
+		"name": "Frosty Fields" 
+		"replaces": "Granary"
+		"uniqueTo": "Ice Kingdom of Cirno"
+		"cost": 160, 
+		"food": 20,
+		"food": 5,
+		"requiredTech": "Pottery" 
 ]
