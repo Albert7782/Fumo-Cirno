@@ -1,38 +1,35 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Ice Kingdom of Cirno",
+		"leaderName": "Cirno",
+		"adjective": ["Fairy"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "I’m the strongest!!",
+		"startIntroPart2": "I’m Cirno, the ice fairy!",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "I’m Cirno, the strongest, and I declare the Ice War! Let the frozen fun begin!",
+		"attacked":  "Hey! That's not fair! Don't you dare challenge the strongest!",
+		"defeated": "No way! This isn't over! I'm going to train and come back stronger!",
+		"introduction": "Welcome to the Ice Kingdom! I'm Cirno, the strongest, and here, fun and snow never end. Get ready to play!",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "Hi! I'm Cirno. How are you?",
+		"neutralLetsHearIt": ["Alright, everyone! I'm curious to hear what you all think"],
+		"neutralNo": ["I don't care what you say! I'm the strongest "," and I'll always win!"],
+		"neutralYes": ["Alright "," that sounds interesting."],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "Oh, look who showed up. You again? I don't have time for your nonsense.",
+		"hateLetsHearIt": ["Hate? Let's hear it! Tell me what you think!"],
+		"hateNo": ["No "," thanks. I'm not interested."],
+		"hateYes": ["Well "," that sounds interesting. Tell me more."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "Great! Now that there's peace "," we can have even more fun and play!",
+		"tradeRequest": "Hey! I'll trade you a bunch of ice for those yummy sweets. What do you say?",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"outerColor": [135,206,235],
+		"innerColor": [255,255,255],
+		"unique": "STRONG_DESTINY",
+		"cities": ["Ice blue "," Glaciara "," Frigidalia Crystaline "," Snowstorm "," Frostyvale "," Heladia "," Ice Rivers "," Cold Aurora "," Frosthaven "," Freezeport "," Borealis "," Snowland "," Iceglow "," Eternal Frost "," Glaciopolis "," Ice Star "," Snowlet "," Chilllight "," Frost Tempest "," Ice Peaks "," Icebound "," Snowcrystal "," Frigoria "," Frostlight "," Glacialis "," Ice Sun "," Icy Aurora "," Snowdrift "," Crystalfreeze "," Full Snow "," Iceworld "," Coolblue "," Glaciartis "," Fresh Snow"]
 	}
 ]
